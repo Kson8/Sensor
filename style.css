@@ -1,6 +1,11 @@
 body { 
         font-family: Arial, sans-serif;
-         margin: 40px;
+        margin: 40px;
+        background-image: url('Johan\ Liebert.jpg'); /* Use your actual image filename */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        color: white;
 }
 
 .sensor-data { 
